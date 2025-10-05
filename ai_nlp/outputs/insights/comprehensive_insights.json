@@ -1,0 +1,753 @@
+{
+  "knowledge_gaps": {
+    "knowledge_gap_clusters": [
+      12
+    ],
+    "gap_cluster_sizes": {
+      "12": 2
+    },
+    "total_gap_clusters": 1,
+    "total_papers_in_gaps": 2,
+    "percentage_papers_in_gaps": 2.380952380952381,
+    "well_represented_clusters": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "avg_papers_per_gap_cluster": 2.0,
+    "threshold_used": 3,
+    "recommendations": [
+      "Consider increasing research focus on 1 underexplored areas"
+    ]
+  },
+  "publication_trends": {
+    "trends_data": [
+      {
+        "cluster_id": 0,
+        "year": 2013,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 0,
+        "year": 2014,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 0,
+        "year": 2018,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 0,
+        "year": 2019,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 0,
+        "year": 2021,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 0,
+        "year": 2022,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 0,
+        "year": 2024,
+        "paper_count": 4
+      },
+      {
+        "cluster_id": 0,
+        "year": 2025,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 1,
+        "year": 2014,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 1,
+        "year": 2017,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 1,
+        "year": 2018,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 1,
+        "year": 2020,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 1,
+        "year": 2024,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 2,
+        "year": 2013,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 2,
+        "year": 2014,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 2,
+        "year": 2015,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 2,
+        "year": 2016,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 2,
+        "year": 2017,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 2,
+        "year": 2018,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 2,
+        "year": 2020,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 2,
+        "year": 2021,
+        "paper_count": 3
+      },
+      {
+        "cluster_id": 2,
+        "year": 2022,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 2,
+        "year": 2023,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 2,
+        "year": 2024,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 2,
+        "year": 2025,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 3,
+        "year": 2015,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 3,
+        "year": 2020,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 3,
+        "year": 2021,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 4,
+        "year": 2014,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 4,
+        "year": 2016,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 4,
+        "year": 2019,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 4,
+        "year": 2020,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 4,
+        "year": 2024,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 5,
+        "year": 2014,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 5,
+        "year": 2017,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 5,
+        "year": 2020,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 5,
+        "year": 2023,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 5,
+        "year": 2024,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 6,
+        "year": 2017,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 6,
+        "year": 2018,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 6,
+        "year": 2019,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 7,
+        "year": 2011,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 7,
+        "year": 2014,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 7,
+        "year": 2017,
+        "paper_count": 4
+      },
+      {
+        "cluster_id": 7,
+        "year": 2022,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 7,
+        "year": 2024,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 8,
+        "year": 2025,
+        "paper_count": 4
+      },
+      {
+        "cluster_id": 9,
+        "year": 2017,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 9,
+        "year": 2018,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 9,
+        "year": 2019,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 9,
+        "year": 2020,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 9,
+        "year": 2024,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 10,
+        "year": 2014,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 10,
+        "year": 2022,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 10,
+        "year": 2024,
+        "paper_count": 2
+      },
+      {
+        "cluster_id": 11,
+        "year": 2014,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 11,
+        "year": 2018,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 11,
+        "year": 2021,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 12,
+        "year": 2010,
+        "paper_count": 1
+      },
+      {
+        "cluster_id": 12,
+        "year": 2013,
+        "paper_count": 1
+      }
+    ],
+    "cluster_trends": {
+      "0": {
+        "total_papers": 16,
+        "recent_papers": 8,
+        "trend_direction": "declining",
+        "peak_year": 2024,
+        "peak_papers": 4,
+        "years_active": 8,
+        "avg_papers_per_year": 2.0
+      },
+      "1": {
+        "total_papers": 7,
+        "recent_papers": 1,
+        "trend_direction": "declining",
+        "peak_year": 2017,
+        "peak_papers": 2,
+        "years_active": 5,
+        "avg_papers_per_year": 1.4
+      },
+      "5": {
+        "total_papers": 6,
+        "recent_papers": 2,
+        "trend_direction": "declining",
+        "peak_year": 2020,
+        "peak_papers": 2,
+        "years_active": 5,
+        "avg_papers_per_year": 1.2
+      },
+      "11": {
+        "total_papers": 3,
+        "recent_papers": 1,
+        "trend_direction": "declining",
+        "peak_year": 2014,
+        "peak_papers": 1,
+        "years_active": 3,
+        "avg_papers_per_year": 1.0
+      },
+      "7": {
+        "total_papers": 8,
+        "recent_papers": 2,
+        "trend_direction": "declining",
+        "peak_year": 2017,
+        "peak_papers": 4,
+        "years_active": 5,
+        "avg_papers_per_year": 1.6
+      },
+      "4": {
+        "total_papers": 7,
+        "recent_papers": 2,
+        "trend_direction": "declining",
+        "peak_year": 2014,
+        "peak_papers": 2,
+        "years_active": 5,
+        "avg_papers_per_year": 1.4
+      },
+      "3": {
+        "total_papers": 4,
+        "recent_papers": 2,
+        "trend_direction": "declining",
+        "peak_year": 2021,
+        "peak_papers": 2,
+        "years_active": 3,
+        "avg_papers_per_year": 1.3333333333333333
+      },
+      "2": {
+        "total_papers": 15,
+        "recent_papers": 7,
+        "trend_direction": "growing",
+        "peak_year": 2021,
+        "peak_papers": 3,
+        "years_active": 12,
+        "avg_papers_per_year": 1.25
+      },
+      "12": {
+        "total_papers": 2,
+        "recent_papers": 0,
+        "trend_direction": "stable",
+        "peak_year": 2010,
+        "peak_papers": 1,
+        "years_active": 2,
+        "avg_papers_per_year": 1.0
+      },
+      "10": {
+        "total_papers": 4,
+        "recent_papers": 3,
+        "trend_direction": "declining",
+        "peak_year": 2024,
+        "peak_papers": 2,
+        "years_active": 3,
+        "avg_papers_per_year": 1.3333333333333333
+      },
+      "6": {
+        "total_papers": 3,
+        "recent_papers": 0,
+        "trend_direction": "stable",
+        "peak_year": 2017,
+        "peak_papers": 1,
+        "years_active": 3,
+        "avg_papers_per_year": 1.0
+      },
+      "9": {
+        "total_papers": 5,
+        "recent_papers": 1,
+        "trend_direction": "declining",
+        "peak_year": 2017,
+        "peak_papers": 1,
+        "years_active": 5,
+        "avg_papers_per_year": 1.0
+      },
+      "8": {
+        "total_papers": 4,
+        "recent_papers": 4,
+        "trend_direction": "stable",
+        "peak_year": 2025,
+        "peak_papers": 4,
+        "years_active": 1,
+        "avg_papers_per_year": 4.0
+      }
+    },
+    "field_trends": {
+      "total_publications": 84,
+      "years_covered": 15,
+      "peak_year": 2024,
+      "peak_publications": 13,
+      "recent_growth": -6.939514089790045,
+      "publication_timeline": {
+        "2010": 1,
+        "2011": 1,
+        "2013": 4,
+        "2014": 10,
+        "2015": 3,
+        "2016": 2,
+        "2017": 10,
+        "2018": 7,
+        "2019": 5,
+        "2020": 8,
+        "2021": 8,
+        "2022": 4,
+        "2023": 2,
+        "2024": 13,
+        "2025": 6
+      }
+    },
+    "insights": [
+      "Growing research areas: Clusters [2]",
+      "Declining research areas: Clusters [0, 1, 5, 11, 7, 4, 3, 10, 9]",
+      "Peak research activity in 2024"
+    ],
+    "recent_years": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021
+    ]
+  },
+  "consensus_analysis": {
+    "consensus_data": [
+      {
+        "cluster_id": 0,
+        "paper_count": 16,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.019999999999999997,
+        "keywords": "effects microgravity biological, the, osteocytic osteolysis, that, and, microgravity, space, housing groups mice, to high, shown, after a, countermeasure, space flight, diet, risks",
+        "temporal_span": 8
+      },
+      {
+        "cluster_id": 1,
+        "paper_count": 7,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.05,
+        "keywords": "innate immunity study, and, used drosophila model, the, that, space, reagents, space station, like an, early, microgravity, virulent, grown, flights, on astronaut",
+        "temporal_span": 5
+      },
+      {
+        "cluster_id": 2,
+        "paper_count": 15,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.0,
+        "keywords": "mortality worldwide betacoronavirus, betacoronavirus continues evolve, morbidity, covid 19 disease, graphical, worldwide, continues, cov, abstract, disease, sars, mortality, betacoronavirus, caused sars, the",
+        "temporal_span": 12
+      },
+      {
+        "cluster_id": 3,
+        "paper_count": 4,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.06999999999999999,
+        "keywords": "actin mediated root, root, the, that, bending plant, and, plant organs increased, auxin analog dichlorophenoxyacetic, actin, cytoskeleton highly plastic, hair development, directionality epi brassinolide, inhibitor, organs, sensitivity to",
+        "temporal_span": 3
+      },
+      {
+        "cluster_id": 4,
+        "paper_count": 7,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.05,
+        "keywords": "trafficking endoplasmic reticulum, the, plants arabidopsis thaliana, golgi, regulation cells operate, golgi core coat, ca2 cyt levels, copi, survival, stress sensors, spaceflight significantly, from the, type ii, indicate, generated",
+        "temporal_span": 5
+      },
+      {
+        "cluster_id": 5,
+        "paper_count": 6,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.05,
+        "keywords": "radiation impairs bone, the, galactic cosmic radiation, that, radiation, health astronauts extended, collagen molecular structure, induced biological effects, remodeling mice long, early, role, biological, populations, induced biological, matter",
+        "temporal_span": 5
+      },
+      {
+        "cluster_id": 6,
+        "paper_count": 3,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.06999999999999999,
+        "keywords": "accelerations oyster toadfish, the, characterize physiology utricular, land snail, functional studies, inertial, orientation respect gravity, organism maintains, senses sum inertial, weightlessness, and, force head, the physiology, to its, gravity was",
+        "temporal_span": 3
+      },
+      {
+        "cluster_id": 7,
+        "paper_count": 8,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.05,
+        "keywords": "getty, background, collection, photos, photographs getty, june, collection photographs, this, photographs, from, please, your, images article, background article collection, originally",
+        "temporal_span": 5
+      },
+      {
+        "cluster_id": 8,
+        "paper_count": 4,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.09000000000000001,
+        "keywords": "fviii, viii, codon, depleted, hemophilia dose dependent, liver specific promoter, tak 754 aav8, f8 transgene control, increase plasma fviii, vector, therapy, based, tak, human, factor",
+        "temporal_span": 1
+      },
+      {
+        "cluster_id": 9,
+        "paper_count": 5,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.05,
+        "keywords": "sequencing antibody repertoires, and, the, that, spaceflight, immune, cell populations, repertoire, reduction in, shown, available to, specificity, we studied, on separate, steadily",
+        "temporal_span": 5
+      },
+      {
+        "cluster_id": 10,
+        "paper_count": 4,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.06999999999999999,
+        "keywords": "proteins called tardigrade, proteins, the, anhydrobiosis strategy allowing, cryoprotectants animals evolved, negative obligate intracellular, extreme dehydration entering, causes tick, reactive oxygen, animals survive broad, animals, and, stress, which, undergo biochemical",
+        "temporal_span": 3
+      },
+      {
+        "cluster_id": 11,
+        "paper_count": 3,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.06999999999999999,
+        "keywords": "bone using rna, the, and, muscle adaptation reduced, bone, gait kinematics measured, cyclic loading experiments, loading isolated mouse, small, loading, for, and difficult, cortical, some, microgravity",
+        "temporal_span": 3
+      },
+      {
+        "cluster_id": 12,
+        "paper_count": 2,
+        "consensus_status": "disagreement",
+        "consensus_score": 0.08000000000000002,
+        "keywords": "detergent, mscl, stoichiometries, mscl bacterial mechanosensitive, resolved, membrane protein subunits, two, channel, rearrangements, ray crystallography reveals, external osmotic environment, pentameric complex, cells, membrane, protein",
+        "temporal_span": 2
+      }
+    ],
+    "consensus_statistics": {
+      "total_clusters": 13,
+      "consensus_clusters": 0,
+      "disagreement_clusters": 13,
+      "mixed_clusters": 0,
+      "consensus_percentage": 0.0
+    },
+    "insights": [
+      "High disagreement across research areas - field shows active debate",
+      "Major disagreement areas: Clusters [0, 1, 2, 4, 5, 7, 9]"
+    ]
+  },
+  "research_opportunities": {
+    "opportunities": [
+      {
+        "type": "knowledge_gap",
+        "description": "Expand research in 1 underexplored areas",
+        "clusters": [
+          12
+        ],
+        "priority": "medium"
+      },
+      {
+        "type": "revival_opportunity",
+        "description": "Revitalize research in 6 declining areas",
+        "clusters": [
+          0,
+          1,
+          5,
+          7,
+          4,
+          9
+        ],
+        "priority": "medium"
+      },
+      {
+        "type": "consensus_building",
+        "description": "Build consensus in 13 areas with conflicting findings",
+        "clusters": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "priority": "high"
+      },
+      {
+        "type": "scaling_opportunity",
+        "description": "Scale up research in 1 rapidly growing areas",
+        "clusters": [
+          2
+        ],
+        "priority": "medium"
+      },
+      {
+        "type": "interdisciplinary",
+        "description": "Foster interdisciplinary collaboration across research clusters",
+        "clusters": [
+          0,
+          1,
+          5,
+          11,
+          7
+        ],
+        "priority": "low"
+      }
+    ],
+    "high_priority": [
+      {
+        "type": "consensus_building",
+        "description": "Build consensus in 13 areas with conflicting findings",
+        "clusters": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "priority": "high"
+      }
+    ],
+    "medium_priority": [
+      {
+        "type": "knowledge_gap",
+        "description": "Expand research in 1 underexplored areas",
+        "clusters": [
+          12
+        ],
+        "priority": "medium"
+      },
+      {
+        "type": "revival_opportunity",
+        "description": "Revitalize research in 6 declining areas",
+        "clusters": [
+          0,
+          1,
+          5,
+          7,
+          4,
+          9
+        ],
+        "priority": "medium"
+      },
+      {
+        "type": "scaling_opportunity",
+        "description": "Scale up research in 1 rapidly growing areas",
+        "clusters": [
+          2
+        ],
+        "priority": "medium"
+      }
+    ],
+    "low_priority": [
+      {
+        "type": "interdisciplinary",
+        "description": "Foster interdisciplinary collaboration across research clusters",
+        "clusters": [
+          0,
+          1,
+          5,
+          11,
+          7
+        ],
+        "priority": "low"
+      }
+    ],
+    "total_opportunities": 5
+  },
+  "summary_statistics": {
+    "total_papers": 84,
+    "total_clusters": 13,
+    "knowledge_gap_clusters": 1,
+    "growing_research_areas": 1,
+    "consensus_areas": 0,
+    "disagreement_areas": 13,
+    "total_opportunities": 5,
+    "high_priority_opportunities": 1
+  }
+}
