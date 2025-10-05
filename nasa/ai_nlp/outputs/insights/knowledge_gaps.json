@@ -1,0 +1,30 @@
+{
+  "knowledge_gap_clusters": [
+    12
+  ],
+  "gap_cluster_sizes": {
+    "12": 2
+  },
+  "total_gap_clusters": 1,
+  "total_papers_in_gaps": 2,
+  "percentage_papers_in_gaps": 2.380952380952381,
+  "well_represented_clusters": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "avg_papers_per_gap_cluster": 2.0,
+  "threshold_used": 3,
+  "recommendations": [
+    "Consider increasing research focus on 1 underexplored areas"
+  ]
+}
