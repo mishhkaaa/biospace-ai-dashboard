@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NASA Bioscience AI Pipeline# 🚀 NASA Bioscience AI Pipeline
 
 
@@ -53,6 +54,36 @@ cd src- **Consensus/Disagreement Analysis**: Areas of scientific agreement vs. d
 python run_chatbot_cli.py- **Research Opportunity Generation**: Strategic recommendations for future research
 
 ```
+=======
+# 🚀 NASA Bioscience AI Pipeline
+
+An advanced AI-powered analysis pipeline for NASA bioscience research publications, transforming metadata into actionable insights for scientific research and knowledge discovery.
+
+## 🎯 Overview
+
+The NASA Bioscience AI Pipeline is a comprehensive, production-ready system that processes scientific publication metadata to generate structured insights for research planning and knowledge gap identification. It combines state-of-the-art natural language processing, machine learning, and data analysis techniques to deliver:
+
+- **Intelligent Summarization**: Advanced abstractive summarization of research papers
+- **Semantic Understanding**: Deep semantic embeddings for similarity analysis
+- **Thematic Clustering**: Automatic grouping of research into thematic areas
+- **Knowledge Discovery**: Extraction of keywords and scientific concepts
+- **Strategic Insights**: Identification of research gaps, trends, and opportunities
+
+## ✨ Key Features
+
+### 🧠 Advanced AI Models
+- **BART-large-CNN** for high-quality summarization
+- **SciBERT/SentenceTransformers** for scientific text embeddings
+- **KeyBERT** with scientific domain optimization
+- **Multiple clustering algorithms** with automatic selection
+
+### 📊 Comprehensive Analysis
+- **Knowledge Gap Detection**: Identifies underexplored research areas
+- **Publication Trend Analysis**: Historical patterns and growth trajectories
+- **Consensus/Disagreement Analysis**: Areas of scientific agreement vs. debate
+- **Research Opportunity Generation**: Strategic recommendations for future research
+
+>>>>>>> 675f2a402fb638e07614d43eaf9e00688e128708
 ### 🔧 Production-Ready Features
 - **Robust Error Handling**: Graceful degradation and fallback mechanisms
 - **Quality Metrics**: Comprehensive evaluation of all outputs
@@ -75,12 +106,15 @@ ai_nlp/
 │   ├── config.py             # Configuration management
 │   ├── utils.py              # Shared utilities
 │   ├── summarization.py      # Text summarization
+<<<<<<< HEAD
 │   ├── chatbot/              # Chatbot backend module
 │   │   ├── __init__.py       # Module exports
 │   │   ├── qa_pipeline.py    # Question answering pipeline
 │   │   └── routing.py        # Query routing logic
 │   ├── graph_queries.py      # Graph database queries (placeholder)
 │   └── run_chatbot_cli.py    # Command-line chatbot interface
+=======
+>>>>>>> 675f2a402fb638e07614d43eaf9e00688e128708
 │   ├── embeddings.py         # Semantic embeddings
 │   ├── clustering.py         # Document clustering
 │   ├── keywords.py           # Keyword extraction
@@ -376,6 +410,7 @@ black src/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+<<<<<<< HEAD
 ---
 
 ## 🤖 Chatbot Backend API
@@ -653,6 +688,11 @@ Common issues and solutions:
 ## 🏷️ Version
 
 **Version 2.0** - Production Ready NASA Bioscience AI Pipeline with Chatbot Backend
+=======
+## 🏷️ Version
+
+**Version 2.0** - Production Ready NASA Bioscience AI Pipeline
+>>>>>>> 675f2a402fb638e07614d43eaf9e00688e128708
 
 **Last Updated**: October 2025
 
